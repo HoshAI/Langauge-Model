@@ -1,7 +1,5 @@
 # LangaugeModel
 
-# LanguageModels
-
 Use cases:
 1. Text generation.
 2. Text classification/Sentiment Analysis.
